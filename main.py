@@ -1,3 +1,5 @@
+# this will convert all HEIC to pngs for a specific folder
+
 import os
 import pyask
 from heic2png import HEIC2PNG
